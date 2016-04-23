@@ -1,0 +1,7 @@
+name: FCIConomy
+version: 1.0
+author: Filip Zocktan & HappyHappyBoy
+main: de.teamfci.fciconomy.FCIConomy
+commands:
+  fcico:
+    description: Zeigt Plugininfo an
