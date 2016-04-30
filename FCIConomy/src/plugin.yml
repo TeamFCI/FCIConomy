@@ -5,3 +5,5 @@ main: de.teamfci.fciconomy.FCIConomy
 commands:
   fcico:
     description: Zeigt Plugininfo an
+  splitter:
+    description: Oeffnet Blutsplitter-Interface.
